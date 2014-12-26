@@ -6,6 +6,11 @@ body {
   text-align: center;
 }
 
+.four-oh-four {
+  background: white;
+  color: #d32124;
+}
+
 h1 {
   font-size: 3rem;
 }
