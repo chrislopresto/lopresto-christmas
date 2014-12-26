@@ -1,0 +1,38 @@
+body {
+  background: #d32124;
+  color: white;
+  font-family: 'Mountains of Christmas', sans-serif;
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h3 {
+  margin-bottom: 4px;
+}
+
+h6 {
+  margin-bottom: 0;
+}
+
+p {
+  margin: 0;
+}
+
+.newsletter {
+  text-align: center;
+}
+
+.thumbnail {
+  border: solid 1px #3b9e45;
+  border-radius: 4px;
+  max-width: 300px;
+  width: 96%;
+}
+
+.disclaimer {
+  font-size: .8rem;
+}
